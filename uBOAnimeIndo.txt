@@ -27,3 +27,8 @@ samehadaku.now##.post-body:style(width:100%!important;)
 ! Kusonime
 kusonime.com##div.section:nth-of-type(1), .tagser, .socialshare, #footer, #credit
 ||kusonime.com/wp-content/uploads/2020/07/Cara-Mengatasi-Google-Drive.jpg$image
+
+! Kuramanime
+v1.kuramanime.tel,v2.kuramanime.tel,v3.kuramanime.tel,v4.kuramanime.tel,v5.kuramanime.tel,v6.kuramanime.tel,v7.kuramanime.tel,v8.kuramanime.tel,v9.kuramanime.tel,v10.kuramanime.tel,v11.kuramanime.tel,v12.kuramanime.tel,v13.kuramanime.tel,v14.kuramanime.tel,v15.kuramanime.tel,v16.kuramanime.tel,v17.kuramanime.tel,v18.kuramanime.tel,v19.kuramanime.tel,v20.kuramanime.tel,v21.kuramanime.tel,v22.kuramanime.tel,v23.kuramanime.tel,v24.kuramanime.tel,v25.kuramanime.tel##.header__nav,.header__right,.col-lg-8,.col-lg-12:others()
+v1.kuramanime.tel,v2.kuramanime.tel,v3.kuramanime.tel,v4.kuramanime.tel,v5.kuramanime.tel,v6.kuramanime.tel,v7.kuramanime.tel,v8.kuramanime.tel,v9.kuramanime.tel,v10.kuramanime.tel,v11.kuramanime.tel,v12.kuramanime.tel,v13.kuramanime.tel,v14.kuramanime.tel,v15.kuramanime.tel,v16.kuramanime.tel,v17.kuramanime.tel,v18.kuramanime.tel,v19.kuramanime.tel,v20.kuramanime.tel,v21.kuramanime.tel,v22.kuramanime.tel,v23.kuramanime.tel,v24.kuramanime.tel,v25.kuramanime.tel##div.mt-4.p-1.breadcrumb-option,.col-sm-8.col-md-6.col-lg-4
+
