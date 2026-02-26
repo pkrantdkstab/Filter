@@ -2,33 +2,21 @@
 ! Homepage: https://github.com/labaikbae/Filter
 
 ! MyNimeku
-www.mynimeku.com##.gap-2.items-center.lg\:flex.hidden.lg\:mis-8, .mbe-9.items-end.gap-5.md\:flex.bg-opacity-100.bg-secondary.plb-5.lg\:pli-5.w-full, .episode-anime-info.episode-head, .anime-share.items-end.gap-5.md\:block.bg-opacity-100.md\:plb-5.w-full, .z-40.relative.pli-5.plb-8
+mynimeku.com##.site-content,#primary-menu:others()
 
 ! Doronime
-doronime.id##[src="https://doronime.id/images/b_fixed.jpg"], div.alert-info.alert:nth-of-type(1), div.alert-info.alert:nth-of-type(3), div.alert-warning.alert:nth-of-type(2), .jssocials.Content__share, .Content__donation, div.alert-info.alert:nth-of-type(10), div.alert-warning.alert:nth-of-type(9), div.alert-info.alert:nth-of-type(8), .col-lg-3.col-12.Sidebar, .row.Content > .col-12 > .Content__banner--center.Content__banner, .container-fluid.Footer__copyright, .Fixed--right.Fixed, div.Fixed:nth-of-type(5), div.Content__banner--center.Content__banner:nth-of-type(4), div.Content__banner--center.Content__banner:nth-of-type(1), div.Content__banner--center.Content__banner:nth-of-type(2)
-||doronime.id/images/promo/web-hosting.jpg?v=1683687014$image
+doronime.id###Header,.Content__wrapper:others()
 doronime.id##.Content__wrapper:style(max-width:100% !important;)
 
 ! alqanime
-alqanime.net##.announ, .desc, .socialts, div.section.widget_text > .releases, .custom-html-widget.textwidget, .site-footer
-
-! AnimeSail
-154.26.137.28###sidebar, .site-footer, .sailnotif
-154.26.137.28##.postbody:style(width:auto!important)
-
-! Samehadaku.now
-samehadaku.now##div.widget_senction > .wp-block-group, div.widgets:nth-of-type(1), div.widgets:nth-of-type(2), .copyright_eastheme, .widget_senction.info_episode.entry-header, .widget_senction.infoanime, #footer, .widgets.widget_text
-samehadaku.now###container-anime:style(margin-bottom:0!important;margin-top:0!important;)
-||samehadaku.now/wp-content/themes/eastplay%20dipake/assets/images/Hand_down.webp$image
-samehadaku.now##.widget_senction:style(margin-bottom:10px!important;)
-samehadaku.now###container:style(margin-bottom:10px!important;margin-top:10px!important;)
-samehadaku.now##.post-body:style(width:100%!important;)
+alqanime.net##.th,.postbody:others()
 
 ! Kusonime
-kusonime.com##div.section:nth-of-type(1), .tagser, .socialshare, #footer, #credit
-||kusonime.com/wp-content/uploads/2020/07/Cara-Mengatasi-Google-Drive.jpg$image
+kusonime.com##.vezone,#menu:others()
 
 ! Kuramanime
 v1.kuramanime.tel,v2.kuramanime.tel,v3.kuramanime.tel,v4.kuramanime.tel,v5.kuramanime.tel,v6.kuramanime.tel,v7.kuramanime.tel,v8.kuramanime.tel,v9.kuramanime.tel,v10.kuramanime.tel,v11.kuramanime.tel,v12.kuramanime.tel,v13.kuramanime.tel,v14.kuramanime.tel,v15.kuramanime.tel,v16.kuramanime.tel,v17.kuramanime.tel,v18.kuramanime.tel,v19.kuramanime.tel,v20.kuramanime.tel,v21.kuramanime.tel,v22.kuramanime.tel,v23.kuramanime.tel,v24.kuramanime.tel,v25.kuramanime.tel##.header__nav,.header__right,.col-lg-8,.col-lg-12:others()
 v1.kuramanime.tel,v2.kuramanime.tel,v3.kuramanime.tel,v4.kuramanime.tel,v5.kuramanime.tel,v6.kuramanime.tel,v7.kuramanime.tel,v8.kuramanime.tel,v9.kuramanime.tel,v10.kuramanime.tel,v11.kuramanime.tel,v12.kuramanime.tel,v13.kuramanime.tel,v14.kuramanime.tel,v15.kuramanime.tel,v16.kuramanime.tel,v17.kuramanime.tel,v18.kuramanime.tel,v19.kuramanime.tel,v20.kuramanime.tel,v21.kuramanime.tel,v22.kuramanime.tel,v23.kuramanime.tel,v24.kuramanime.tel,v25.kuramanime.tel##div.mt-4.p-1.breadcrumb-option,.col-sm-8.col-md-6.col-lg-4
 
+! Nekopoi
+nekopoi.care##.nk-episodes-area,.nk-sidebar-optional,#nk-main-nav,.nk-episode-grid,.nk-series-info,#nk-player,.nk-download-section:others()
