@@ -6,10 +6,29 @@ tut4it.com###post-136591, #custom_html-2, #block-2, .site-footer, .menu-bar-item
 tut4u.com###post-16, .menu-bar-items, #custom_html-3, .site-footer, .comments-area
 
 ! WOwEbook
-wowebook.org###footer, #comments
+wowebook.org###nav-topbar,#content:others()
 
 ! Z-Library
-z-library.sk##.footer__copyright, div[style="padding: 40px 0 10px 0;"],.searchFormLogo.hideInDesktopApp, h1[style="font-size: 14px; text-align: center; margin: 16px 0;"], .social-share
+z-lib.gd,z-library.sk##.navigation,#searchForm,.col-md-12:others()
 
 ! TaiWebs
-taiwebs.com##.networking_sidebar, .footer
+taiwebs.com##.main-download-bottom,.header,.midlright,.quick:others()
+
+! Fontsloader
+fontsloader.com###fullDownloadButton,.grey:others()
+
+! Leechpremium
+leechpremium.link##.header
+leechpremium.link##.footer
+leechpremium.link##.bottom-ad.ad-container
+leechpremium.link##.top-ad.ad-container
+slink.bid##.fixed-top.navbar-dark.navbar-expand-lg.navbar
+slink.bid##footer
+slink.bid##div.ad-exact
+slink.bid##.col2
+slink.bid##.col4
+slink.bid##.col1
+@@||code.jquery.com^$script,domain=leechpremium.link
+@@||cdn.jsdelivr.net.cdn.cloudflare.net^$domain=leechpremium.link
+@@||cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js$domain=leechpremium.link
+@@||leechpremium.link/download.php$1p
