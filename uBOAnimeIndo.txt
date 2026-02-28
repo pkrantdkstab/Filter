@@ -1,5 +1,5 @@
 ! Title: ⛩️ uBO Anime Indonesia
-! Homepage: https://github.com/labaikbae/Filter
+! Homepage: https://github.com/pkrantdkstab/Filter
 
 ! MyNimeku
 mynimeku.com##.site-content,#primary-menu:others()
