@@ -1,5 +1,5 @@
 ! Title: 👌 uBO Anti-Word Twitter/X
-! Homepage: https://github.com/labaikbae/Filter
+! Homepage: https://github.com/pkrantdkstab/Filter
 
 twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(vdey)  
 twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(Vdey)
@@ -302,3 +302,13 @@ twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(colmek)
 twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(yolyolannn)
 twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(jlbb)
 twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(angelbsun666)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(tmimg.skin)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(minggu-senin-selasa)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(kamis-jumat-sabtu)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(senin-selasa-rabu-kamis)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(poomiimii)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(Vdaq.de)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(loops.bet)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(Jshs.zip)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(Yeye.si)
+twitter.com,x.com##div[data-testid="cellInnerDiv"]:has-text(Jshsh.si)
