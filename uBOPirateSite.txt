@@ -1,27 +1,51 @@
 ! Title: 💥 uBO Pirate site
-! Homepage: https://github.com/pkrantdkstab/Filter
+! Homepage: https://github.com/pucyend/Filter
 
-! Tut4it
-tut4it.com###post-136591, #custom_html-2, #block-2, .site-footer, .menu-bar-items, .comments-area
-tut4u.com###post-16, .menu-bar-items, #custom_html-3, .site-footer, .comments-area
+! tut4it, tut4u, tut4sec
+tut4it.com##.widget_custom_html.inner-padding.widget.widget_text
+tut4it.com##.widget_search.inner-padding.widget
+tut4it.com##.widget_text.widget_block.inner-padding.widget
+tut4it.com##.site-info
+tut4it.com##.comments-area
+tut4it.com##center.azc_bbc_center > .azc_bbc_bold
+tut4it.com##.category-news.hentry.sticky.format-standard.status-publish.type-post.post.post-136591
+tut4u.com##.category-news.hentry.sticky.format-standard.status-publish.type-post.post.post-16
+tut4u.com##.widget_search.inner-padding.widget
+tut4u.com##.widget_custom_html.inner-padding.widget.widget_text
+tut4u.com##.site-info
+tut4u.com##center.azc_bbc_center:nth-of-type(2) > .azc_bbc_bold
+tut4u.com##.comments-area
+tut4sec.com##.category-news.hentry.sticky.format-standard.status-publish.type-post.post.post-156
+tut4sec.com###block-3
+tut4sec.com###block-24
+tut4sec.com##.site-info
+tut4sec.com##.comments-area
 
 ! WOwEbook
-wowebook.org###nav-topbar,#content:others()
+www.wowebook.org##.category-donation.hentry.sticky.has-post-thumbnail.format-standard.status-publish.type-post.post.post-38902.excerpt.grid-item.post-standard.group
+www.wowebook.org##.group.container
+www.wowebook.org###footer
+www.wowebook.org##.comment-respond
 
 ! Z-Library
-z-lib.gd,z-library.sk##.navigation,#searchForm,.col-md-12:others()
+z-lib.gd,z-library.sk##.hideInDesktopApp.searchFormLogo > div
+z-lib.gd,z-library.sk##div.footer__navigation-col:nth-of-type(2)
+z-lib.gd,z-library.sk##.ready.hidden-xs.social-share
+z-lib.gd,z-library.sk##.books-mosaic
 
 ! TaiWebs
-taiwebs.com##.main-download-bottom,.header,.midlright,.quick:others()
+taiwebs.com##.networking_sidebar.networking
+taiwebs.com###sofware
+taiwebs.com##.footer
+taiwebs.com###comment_id
+taiwebs.com###graphcomment
 
 ! Fontsloader
 fontsloader.com###fullDownloadButton,.grey:others()
 
 ! Leechpremium
-leechpremium.link##.header
+leechpremium.link##.premium-cta
 leechpremium.link##.footer
-leechpremium.link##.bottom-ad.ad-container
-leechpremium.link##.top-ad.ad-container
 slink.bid##.fixed-top.navbar-dark.navbar-expand-lg.navbar
 slink.bid##footer
 slink.bid##div.ad-exact
